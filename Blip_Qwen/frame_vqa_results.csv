@@ -1,0 +1,101 @@
+frame,question,prediction,bleu_score,bert_score
+frame_00.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is moderate, as it can pose risks to human health and the environment if not handled properly.",N/A,N/A
+frame_00.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the black bin according to swm rules, as it is a composite waste material that may contain hazardous substances.",N/A,N/A
+frame_00.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_00.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,"this item belongs to the dry waste category as it is a cardboard container, which falls under the category of recyclables.",N/A,N/A
+frame_00.jpg,What kind of waste is visible in the image?,the image shows a used this item from a typical indian landfill.,N/A,N/A
+frame_01.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is moderate, as it can cause harm if ingested or burned.",N/A,N/A
+frame_01.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the black bin according to swm rules, as it is a composite waste material that may contain hazardous substances.",N/A,N/A
+frame_01.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_01.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the dry waste category as it is made of recyclable materials like plastic and cardboard.,N/A,N/A
+frame_01.jpg,What kind of waste is visible in the image?,the image shows a used this item from a typical indian landfill.,N/A,N/A
+frame_02.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is moderate, falling into the non - hazardous waste category.",N/A,N/A
+frame_02.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the black bin according to swm rules, as it is a hazardous waste material.",N/A,N/A
+frame_02.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_02.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the dry waste category according to swm rules 2016.,N/A,N/A
+frame_02.jpg,What kind of waste is visible in the image?,the image shows a used potato crackers packet.,N/A,N/A
+frame_03.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is moderate, as it contains potentially harmful materials like aluminum and plastic.",N/A,N/A
+frame_03.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the black bin according to swm rules, as it is considered hazardous waste.",N/A,N/A
+frame_03.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_03.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the dry waste category as it is made of recyclable materials like plastic and aluminum foil.,N/A,N/A
+frame_03.jpg,What kind of waste is visible in the image?,the image shows a used potato crackers packet.,N/A,N/A
+frame_06.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"on a scale of 1 to 10, the hazard level of this item is 8, as it poses minimal risk.",N/A,N/A
+frame_06.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the black bin according to swm rules, as it is considered hazardous waste.",N/A,N/A
+frame_06.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_06.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,"this item would be disposed of in the black bin according to swm rules 2016, as it is a hazardous waste material.",N/A,N/A
+frame_06.jpg,What kind of waste is visible in the image?,the image shows a hand holding a cardboard box.,N/A,N/A
+frame_07.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"on a scale of 1 to 10, the hazard level of this item is 8, as it poses minimal risk.",N/A,N/A
+frame_07.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the black bin according to swm rules, as it is considered hazardous waste.",N/A,N/A
+frame_07.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_07.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,"this item should be disposed of in the black bin according to swm rules 2016, as it is a hazardous waste material.",N/A,N/A
+frame_07.jpg,What kind of waste is visible in the image?,the image shows a hand holding a cardboard box.,N/A,N/A
+frame_09.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is rated as 7 out of 10, placing it in the moderate hazard category.",N/A,N/A
+frame_09.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the brown bin according to swm rules, as it is a composite material that may contain recyclable components.",N/A,N/A
+frame_09.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of paper.,N/A,N/A
+frame_09.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the dry waste category according to swm rules 2016.,N/A,N/A
+frame_09.jpg,What kind of waste is visible in the image?,the image shows a cardboard box.,N/A,N/A
+frame_10.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is rated as 7 out of 10, placing it in the moderate hazard category.",N/A,N/A
+frame_10.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this item should be disposed of in the black bin according to swm rules, as it is classified as hazardous waste.",N/A,N/A
+frame_10.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_10.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the domestic hazardous waste category.,N/A,N/A
+frame_10.jpg,What kind of waste is visible in the image?,the image shows a used disposable glove.,N/A,N/A
+frame_13.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is rated as 8 out of 10, placing it in the moderate hazard category.",N/A,N/A
+frame_13.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this item should be disposed of in the black bin according to swm rules, as it is considered hazardous waste.",N/A,N/A
+frame_13.jpg,What materials is this waste object primarily made of?,the blister pack is primarily made of aluminum foil and plastic.,N/A,N/A
+frame_13.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the domestic hazardous waste category.,N/A,N/A
+frame_13.jpg,What kind of waste is visible in the image?,the image shows a blister pack containing pills.,N/A,N/A
+frame_15.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is rated as 8 out of 10, placing it in the high hazard category.",N/A,N/A
+frame_15.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the black bin according to swm rules, as it is considered hazardous waste.",N/A,N/A
+frame_15.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_15.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the domestic hazardous waste category.,N/A,N/A
+frame_15.jpg,What kind of waste is visible in the image?,the image shows a blister pack of metronidazole tablets.,N/A,N/A
+frame_16.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is rated as 8 out of 10, placing it in the high hazard category.",N/A,N/A
+frame_16.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the black bin according to swm rules, as it is considered hazardous waste.",N/A,N/A
+frame_16.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_16.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the domestic hazardous waste category according to swm rules 2016.,N/A,N/A
+frame_16.jpg,What kind of waste is visible in the image?,the image shows a blister pack of medication.,N/A,N/A
+frame_17.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is rated as 8 out of 10, placing it in the high hazard category.",N/A,N/A
+frame_17.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the black bin according to swm rules, as it is considered hazardous waste.",N/A,N/A
+frame_17.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_17.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the domestic hazardous waste category according to swm rules 2016.,N/A,N/A
+frame_17.jpg,What kind of waste is visible in the image?,the image shows a blister pack of medication.,N/A,N/A
+frame_20.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is rated as 7 out of 10, placing it in the moderate hazard category.",N/A,N/A
+frame_20.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the brown bin according to swm rules, as it is a composite material that may contain recyclable components.",N/A,N/A
+frame_20.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of paper.,N/A,N/A
+frame_20.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the dry waste category according to swm rules 2016.,N/A,N/A
+frame_20.jpg,What kind of waste is visible in the image?,the image shows a cardboard box.,N/A,N/A
+frame_22.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is rated as 8 out of 10, placing it in the high hazard category due to its potential to cause severe harm if not managed properly.",N/A,N/A
+frame_22.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the black bin according to swm rules, as it is considered hazardous waste.",N/A,N/A
+frame_22.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_22.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the dry waste category according to swm rules 2016.,N/A,N/A
+frame_22.jpg,What kind of waste is visible in the image?,the image shows a discarded carton.,N/A,N/A
+frame_23.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is moderate, falling into the non - hazardous waste category.",N/A,N/A
+frame_23.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the brown bin according to swm rules, as it is a composite material that may contain hazardous substances.",N/A,N/A
+frame_23.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_23.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,"this item would take several years to decompose in a typical indian landfill, depending on the conditions and the type of landfill.",N/A,N/A
+frame_23.jpg,What kind of waste is visible in the image?,the image shows a used cardboard box.,N/A,N/A
+frame_24.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is rated as 7 out of 10, placing it in the moderate hazard category.",N/A,N/A
+frame_24.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the brown bin according to swm rules, as it is a composite material that may contain recyclable components.",N/A,N/A
+frame_24.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of paper.,N/A,N/A
+frame_24.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the dry waste category.,N/A,N/A
+frame_24.jpg,What kind of waste is visible in the image?,the image shows a cardboard box.,N/A,N/A
+frame_27.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is rated as 8 out of 10, placing it in the high hazard category.",N/A,N/A
+frame_27.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this waste should be disposed in the black bin according to swm rules, as it is considered hazardous waste.",N/A,N/A
+frame_27.jpg,What materials is this waste object primarily made of?,these waste objects are primarily made of plastic.,N/A,N/A
+frame_27.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the domestic hazardous waste category.,N/A,N/A
+frame_27.jpg,What kind of waste is visible in the image?,the image shows a pile of used disposable face masks.,N/A,N/A
+frame_28.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is moderate, falling into the non - hazardous waste category.",N/A,N/A
+frame_28.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this item should be disposed in the blue bin according to swm rules, as it is a recyclable material.",N/A,N/A
+frame_28.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_28.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the dry waste category according to swm rules 2016.,N/A,N/A
+frame_28.jpg,What kind of waste is visible in the image?,the image shows a crumpled plastic bag.,N/A,N/A
+frame_29.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is rated as 2 out of 10, placing it in the moderate hazard category.",N/A,N/A
+frame_29.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this item should be disposed in the blue bin according to swm rules, as it is a recyclable material.",N/A,N/A
+frame_29.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_29.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the dry waste category.,N/A,N/A
+frame_29.jpg,What kind of waste is visible in the image?,the image shows a crumpled plastic bag.,N/A,N/A
+frame_30.jpg,Rate the hazard level of this item on a scale of 1-10 where 1 is safe and 10 is extremely hazardous,"the hazard level of this item is rated as 1 out of 10, indicating it poses minimal risk.",N/A,N/A
+frame_30.jpg,"Which colored bin should be used to dispose of this waste according to SWM Rules?,","this item should be disposed in the blue bin according to swm rules, as it is a recyclable material.",N/A,N/A
+frame_30.jpg,What materials is this waste object primarily made of?,this waste object is primarily made of plastic.,N/A,N/A
+frame_30.jpg,Which category does this waste belong to according to Indian Solid Waste Management Rules 2016?,this item belongs to the dry waste category.,N/A,N/A
+frame_30.jpg,What kind of waste is visible in the image?,the image shows a crumpled plastic bag.,N/A,N/A

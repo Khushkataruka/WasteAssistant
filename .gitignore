@@ -1,0 +1,78 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ===========================
+# Virtual environments
+# ===========================
+venv/
+env/
+.env/
+.venv/
+
+# ===========================
+# IDE / Editor
+# ===========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~
+
+# ===========================
+# OS files
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+
+# ===========================
+# Model checkpoints (large)
+# ===========================
+*.safetensors
+*.bin
+*.spiece.model
+*/best_model_bleu/
+*/final_model_bleu/
+*/checkpoints/
+
+# ===========================
+# Augmented & dataset images (large, regenerable)
+# ===========================
+augmented_images/
+*/augmented_images/
+split_jsons/
+*/split_jsons/
+*/dataset/
+*/output_frames/
+*/annotated_frames/
+
+# ===========================
+# SLURM / HPC logs
+# ===========================
+test_gpu_error_*.log
+test_gpu_job_output_*.log
+*/test_gpu_error_*.log
+*/test_gpu_job_output_*.log
+
+# ===========================
+# Large generated CSVs (keep eval results, ignore raw generation)
+# ===========================
+*/vqa_generated.csv
+*/vqa_generated_filtered.csv
+
+# ===========================
+# Misc
+# ===========================
+*.log
+=0.26.0

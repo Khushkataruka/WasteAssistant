@@ -1,0 +1,8 @@
+InstructBLIP VQA Evaluation Summary
+=====================================
+Model Path: instructor_blip_freeze_unfreeze
+Test Samples: 2784
+Successful Evaluations: 2784
+Failures: 0
+Average BLEU Score: 0.6798
+Average BERTScore F1: 0.7935
